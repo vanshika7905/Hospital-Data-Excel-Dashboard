@@ -15,6 +15,7 @@ Raw dataset used for creating the dashboard--
 [Hospital Emergency Room Data.csv](https://github.com/user-attachments/files/23567125/Hospital.Emergency.Room.Data.csv)
 
 📊 Dashboard Highlights
+
 🔹 1. Key Performance Indicators (KPIs)
 
 Total Patients: 519
@@ -51,34 +52,32 @@ Bar chart showing patients’ distribution from 0–79 years.
 ✔ Department-wise Referrals
 
 Counts from departments like:
-General Practice
-Orthopedics
-Neurology
-Physiotherapy
-Cardiology
-Gastroenterology
-Renal
+🔹General Practice
+🔹Orthopedics
+🔹Neurology
+🔹Physiotherapy
+🔹Cardiology
+🔹Gastroenterology
+🔹Renal
 … and more.
 
 🛠 Tools & Techniques Used
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Donut Charts
-Bar Graphs
-Conditional Formatting
-KPI Cards
-Formulas & Layout Designing
+🔹Microsoft Excel
+🔹Pivot Tables
+🔹Pivot Charts
+🔹Slicers
+🔹Donut Charts
+🔹Bar Graphs
+🔹Conditional Formatting
+🔹KPI Cards
+🔹Formulas & Layout Designing
 
 🎯 Purpose of the Dashboard
 
 This dashboard helps hospitals and analysts to:
-Monitor ER activity efficiently
-Identify peak age groups
-Understand patient flow
-
-Improve department response
-
-Analyze patient satisfaction & wait time trends
+🔹Monitor ER activity efficiently
+🔹Identify peak age groups
+🔹Understand patient flow
+🔹Improve department response
+🔹Analyze patient satisfaction & wait time trends
