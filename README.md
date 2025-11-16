@@ -7,4 +7,4 @@ It provides a complete 360° view of emergency room performance using charts, KP
 📁 Project Files Included
 File	Description
 HospitalEmergencyRoomData.csv	 --Raw dataset used for creating the dashboard
-https://github.com/vanshika7905/Hospital-Data-Excel-Dashboard/blob/main/Screenshot%202025-11-16%20145650.png	--Dashboard preview image
+https://github.com/vanshika7905/Hospital-Data-Excel-Dashboard/blob/main/Screenshot%202025-11-16%20145650.png	
